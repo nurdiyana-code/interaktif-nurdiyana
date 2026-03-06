@@ -1,4 +1,4 @@
-
+<script src="app.js"></script>
 let pages=document.querySelectorAll('.page')
 let progress=0
 
